@@ -1,1 +1,3 @@
 # Art Portfolio
+
+flutter run
